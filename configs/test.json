@@ -1,0 +1,40 @@
+{
+  "domain": "localhost:3000",
+  "port": 3000,
+  "db": "mongodb://localhost:27017/mean_db_test",
+  "database_name": "mean_db_test",
+  "cookie_secret": "tas4skh@amm3r",
+  "google": {
+    "clientID": "APP_ID",
+    "clientSecret": "APP_SECRET",
+    "callbackURL": "http://localhost:3000/auth/google/callback",
+    "passReqToCallback": true
+  },
+  "linkedin": {
+    "clientID": "7538opeyuhga3z",
+    "clientSecret": "wVbKtf0pV8s4RlMH",
+    "callbackURL": "http://localhost:3000/auth/linkedin/callback",
+    "passReqToCallback": true,
+    "scope": ["r_basicprofile", "r_emailaddress"]
+  },
+  "mail": {
+    "type": "nodemailer",
+    "auth": {
+      "user": "mean.template@gmail.com",
+      "pass": "etalpmet"
+    },
+    "options": {
+      "service": "Gmail"
+    },
+    "from": {
+      "name": "TaskHammer",
+      "email": "mean.template@gmail.com"
+    }
+  },
+  "payment": {
+    "type": "stripe",
+    "options": {
+      "api_key": "sk_test_EvAuwqH3IBW7jm2EA39tWZmH"
+    }
+  }
+}

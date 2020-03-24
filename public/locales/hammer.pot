@@ -1,0 +1,1219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TaskHammer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "global##successfulUpdate"
+msgstr ""
+
+msgid "global##successfulCreate"
+msgstr ""
+
+msgid "global##viewTutorialVideo"
+msgstr ""
+
+msgid "global##here"
+msgstr ""
+
+msgid "global##list"
+msgstr ""
+
+msgid "global##wbs"
+msgstr ""
+
+msgid "global##gantt"
+msgstr ""
+
+msgid "global##agile"
+msgstr ""
+
+msgid "global##raci"
+msgstr ""
+
+msgid "global##risks"
+msgstr ""
+
+msgid "global##settings"
+msgstr ""
+
+msgid "global##help"
+msgstr ""
+
+msgid "global##invalidEmail"
+msgstr ""
+
+msgid "global##projectNotFound"
+msgstr ""
+
+msgid "signIn##signInToPlanHammer"
+msgstr ""
+
+msgid "signIn##usernameOrEmail"
+msgstr ""
+
+msgid "signIn##enterUsernameOrEmail"
+msgstr ""
+
+msgid "signIn##password"
+msgstr ""
+
+msgid "signIn##signIn"
+msgstr ""
+
+msgid "signIn##createAccount"
+msgstr ""
+
+msgid "signIn##resetPassword"
+msgstr ""
+
+msgid "signIn##signInWithGoogle"
+msgstr ""
+
+msgid "signIn##signInWithLinkedIn"
+msgstr ""
+
+msgid "signIn##signInWithWindowsLive"
+msgstr ""
+
+msgid "signIn##unknownUser"
+msgstr ""
+
+msgid "signIn##confirmEmail"
+msgstr ""
+
+msgid "signIn##invalidPassword"
+msgstr ""
+
+msgid "signUp##getStarted"
+msgstr ""
+
+msgid "signUp##signUpQuickly"
+msgstr ""
+
+msgid "signUp##creating"
+msgstr ""
+
+msgid "signUp##signUpWithGoogle"
+msgstr ""
+
+msgid "signUp##signUpWithLinkedIn"
+msgstr ""
+
+msgid "signUp##signUpWithWindowsLive"
+msgstr ""
+
+msgid "signUp##email"
+msgstr ""
+
+msgid "signUp##emailAddress"
+msgstr ""
+
+msgid "signUp##whatIsYourEmail"
+msgstr ""
+
+msgid "signUp##username"
+msgstr ""
+
+msgid "signUp##chooseUsername"
+msgstr ""
+
+msgid "signUp##password"
+msgstr ""
+
+msgid "signUp##confirmPassword"
+msgstr ""
+
+msgid "signUp##passwordConfirmation"
+msgstr ""
+
+msgid "signUp##signUp"
+msgstr ""
+
+msgid "signUp##alreadyHaveAccount"
+msgstr ""
+
+msgid "signUp##passwordsNotMatch"
+msgstr ""
+
+msgid "signUp##emailOrUsernameExists"
+msgstr ""
+
+msgid "confirmation##confirmed"
+msgstr ""
+
+msgid "confirmation##invalid"
+msgstr ""
+
+msgid "account##accountInformation"
+msgstr ""
+
+msgid "account##profile"
+msgstr ""
+
+msgid "account##uploadPicture"
+msgstr ""
+
+msgid "account##unsupportedFileType"
+msgstr ""
+
+msgid "account##username"
+msgstr ""
+
+msgid "account##password"
+msgstr ""
+
+msgid "account##newPassword"
+msgstr ""
+
+msgid "account##confirmNewPassword"
+msgstr ""
+
+msgid "account##firstName"
+msgstr ""
+
+msgid "account##lastName"
+msgstr ""
+
+msgid "account##email"
+msgstr ""
+
+msgid "account##streetAddress"
+msgstr ""
+
+msgid "account##city"
+msgstr ""
+
+msgid "account##state"
+msgstr ""
+
+msgid "account##zipCode"
+msgstr ""
+
+msgid "account##country"
+msgstr ""
+
+msgid "account##language"
+msgstr ""
+
+msgid "account##update"
+msgstr ""
+
+msgid "account##payments"
+msgstr ""
+
+msgid "account##currentPlanInfo"
+msgstr ""
+
+msgid "account##nextPaymentInfo"
+msgstr ""
+
+msgid "account##creditCard"
+msgstr ""
+
+msgid "account##enterCardNumber"
+msgstr ""
+
+msgid "account##enterNameOnCard"
+msgstr ""
+
+msgid "account##cvc"
+msgstr ""
+
+msgid "account##expiryDate"
+msgstr ""
+
+msgid "account##updateCard"
+msgstr ""
+
+msgid "account##cardAlreadyAdded"
+msgstr ""
+
+msgid "account##addNew"
+msgstr ""
+
+msgid "account##enterCouponCode"
+msgstr ""
+
+msgid "account##addCoupon"
+msgstr ""
+
+msgid "account##deactivateAccount"
+msgstr ""
+
+msgid "account##collaborators"
+msgstr ""
+
+msgid "account##noCollaborators"
+msgstr ""
+
+msgid "account##confirmCollaboratorDelete"
+msgstr ""
+
+msgid "account##delete"
+msgstr ""
+
+msgid "account##currentPassword"
+msgstr ""
+
+msgid "account##invalidCurrentPassword"
+msgstr ""
+
+msgid "account##userOrEmailTaken"
+msgstr ""
+
+msgid "account##passwordLenghtError"
+msgstr ""
+
+msgid "account##creditCardAdded"
+msgstr ""
+
+msgid "account##confirmAccountDelete"
+msgstr ""
+
+msgid "account##couponAdded"
+msgstr ""
+
+msgid "projectList##projects"
+msgstr ""
+
+msgid "projectList##createNewProject"
+msgstr ""
+
+msgid "projectList##createFirstProject"
+msgstr ""
+
+msgid "projectList##new"
+msgstr ""
+
+msgid "projectList##myProjects"
+msgstr ""
+
+msgid "projectList##options"
+msgstr ""
+
+msgid "projectList##open"
+msgstr ""
+
+msgid "projectList##invite"
+msgstr ""
+
+msgid "projectList##settings"
+msgstr ""
+
+msgid "projectList##delete"
+msgstr ""
+
+msgid "projectList##clone"
+msgstr ""
+
+msgid "projectList##projectsShared"
+msgstr ""
+
+msgid "projectList##confirmDelete"
+msgstr ""
+
+msgid "projectList##loading"
+msgstr ""
+
+msgid "nav##freePeriodExpires"
+msgstr ""
+
+msgid "nav##tour"
+msgstr ""
+
+msgid "nav##freeMonth"
+msgstr ""
+
+msgid "nav##projects"
+msgstr ""
+
+msgid "nav##feedback"
+msgstr ""
+
+msgid "nav##account"
+msgstr ""
+
+msgid "nav##logout"
+msgstr ""
+
+msgid "projectCreate##createNewProject"
+msgstr ""
+
+msgid "projectCreate##upgradePlan"
+msgstr ""
+
+msgid "projectCreate##name"
+msgstr ""
+
+msgid "projectCreate##enterProjectName"
+msgstr ""
+
+msgid "projectCreate##description"
+msgstr ""
+
+msgid "projectCreate##useQualityChecklist"
+msgstr ""
+
+msgid "projectCreate##create"
+msgstr ""
+
+msgid "projectCreate##failToSave"
+msgstr ""
+
+msgid "listView##filterByAssignee"
+msgstr ""
+
+msgid "listView##allUsers"
+msgstr ""
+
+msgid "listView##hideCompleteTasks"
+msgstr ""
+
+msgid "listView##createTask"
+msgstr ""
+
+msgid "listView##loading"
+msgstr ""
+
+msgid "listView##deleteTaskConfirm"
+msgstr ""
+
+msgid "listView##unassigned"
+msgstr ""
+
+msgid "agileView##loading"
+msgstr ""
+
+msgid "agileView##createNewBoard"
+msgstr ""
+
+msgid "agileView##enterBoardName"
+msgstr ""
+
+msgid "agileView##renameBoard"
+msgstr ""
+
+msgid "agileView##deleteBoard"
+msgstr ""
+
+msgid "agileView##createNewBoardInQuotes"
+msgstr ""
+
+msgid "agileView##toGetStarted"
+msgstr ""
+
+msgid "agileView##createTask"
+msgstr ""
+
+msgid "agileView##addTask"
+msgstr ""
+
+msgid "agileView##addTasks"
+msgstr ""
+
+msgid "agileView##addChildTask"
+msgstr ""
+
+msgid "agileView##importTasks"
+msgstr ""
+
+msgid "agileView##deleteList"
+msgstr ""
+
+msgid "agileView##clearList"
+msgstr ""
+
+msgid "agileView##add"
+msgstr ""
+
+msgid "agileView##markAll"
+msgstr ""
+
+msgid "agileView##unmarkAll"
+msgstr ""
+
+msgid "agileView##addByAssignee"
+msgstr ""
+
+msgid "agileView##assignTasksToUsersFirst"
+msgstr ""
+
+msgid "agileView##removeFromList"
+msgstr ""
+
+msgid "agileView##delete"
+msgstr ""
+
+msgid "agileView##enterListName"
+msgstr ""
+
+msgid "agileView##newList"
+msgstr ""
+
+msgid "agileView##enterToCreateNewBoard"
+msgstr ""
+
+msgid "agileView##enterToCreateNewList"
+msgstr ""
+
+msgid "agileView##createFirstList"
+msgstr ""
+
+msgid "agileView##newListInQuotes"
+msgstr ""
+
+msgid "agileView##deleteTaskConfirm"
+msgstr ""
+
+msgid "agileView##taskCount"
+msgstr ""
+
+msgid "taskForm##createSubTask"
+msgstr ""
+
+msgid "taskForm##selectBoard"
+msgstr ""
+
+msgid "taskForm##enterBoardName"
+msgstr ""
+
+msgid "taskForm##plusNewBoard"
+msgstr ""
+
+msgid "taskForm##selectList"
+msgstr ""
+
+msgid "taskForm##enterListName"
+msgstr ""
+
+msgid "taskForm##plusNewList"
+msgstr ""
+
+msgid "taskForm##assign"
+msgstr ""
+
+msgid "taskForm##inviteUsersToAssign"
+msgstr ""
+
+msgid "taskForm##files"
+msgstr ""
+
+msgid "taskForm##openFile"
+msgstr ""
+
+msgid "taskForm##delete"
+msgstr ""
+
+msgid "taskForm##chooseFromDropbox"
+msgstr ""
+
+msgid "taskForm##chooseFromGoogle"
+msgstr ""
+
+msgid "taskForm##chooseFromOneDrive"
+msgstr ""
+
+msgid "taskForm##upload"
+msgstr ""
+
+msgid "taskForm##checklist"
+msgstr ""
+
+msgid "taskForm##addItem"
+msgstr ""
+
+msgid "taskForm##dependencies"
+msgstr ""
+
+msgid "taskForm##findTask"
+msgstr ""
+
+msgid "taskForm##add"
+msgstr ""
+
+msgid "taskForm##risks"
+msgstr ""
+
+msgid "taskForm##addRisk"
+msgstr ""
+
+msgid "taskForm##associateWithRisk"
+msgstr ""
+
+msgid "taskForm##removeRisk"
+msgstr ""
+
+msgid "taskForm##deleteRisk"
+msgstr ""
+
+msgid "taskForm##comments"
+msgstr ""
+
+msgid "taskForm##reply"
+msgstr ""
+
+msgid "taskForm##comment"
+msgstr ""
+
+msgid "taskForm##yourComment"
+msgstr ""
+
+msgid "taskForm##timezone"
+msgstr ""
+
+msgid "taskForm##notSet"
+msgstr ""
+
+msgid "taskForm##startDate"
+msgstr ""
+
+msgid "taskForm##endDate"
+msgstr ""
+
+msgid "taskForm##complete"
+msgstr ""
+
+msgid "taskForm##duration"
+msgstr ""
+
+msgid "taskForm##numberHere"
+msgstr ""
+
+msgid "taskForm##subTaskDurationSum"
+msgstr ""
+
+msgid "taskForm##optimisticTime"
+msgstr ""
+
+msgid "taskForm##pessimisticTime"
+msgstr ""
+
+msgid "taskForm##mostLikelyTime"
+msgstr ""
+
+msgid "taskForm##expectedTime"
+msgstr ""
+
+msgid "taskForm##cost"
+msgstr ""
+
+msgid "taskForm##costSum"
+msgstr ""
+
+msgid "taskForm##user"
+msgstr ""
+
+msgid "taskForm##role"
+msgstr ""
+
+msgid "taskForm##unassigned"
+msgstr ""
+
+msgid "taskForm##responsible"
+msgstr ""
+
+msgid "taskForm##accountable"
+msgstr ""
+
+msgid "taskForm##consulted"
+msgstr ""
+
+msgid "taskForm##informed"
+msgstr ""
+
+msgid "taskForm##person"
+msgstr ""
+
+msgid "taskForm##info"
+msgstr ""
+
+msgid "taskForm##timeCost"
+msgstr ""
+
+msgid "taskForm##raci"
+msgstr ""
+
+msgid "taskForm##uploading"
+msgstr ""
+
+msgid "taskForm##failToUpload"
+msgstr ""
+
+msgid "taskForm##typeAndPressEnter"
+msgstr ""
+
+msgid "taskForm##onlyProjectCreatorCanChangeRACI"
+msgstr ""
+
+msgid "referral##invitePeople"
+msgstr ""
+
+msgid "referral##referralDescription"
+msgstr ""
+
+msgid "referral##email"
+msgstr ""
+
+msgid "referral##enterEmail"
+msgstr ""
+
+msgid "referral##message"
+msgstr ""
+
+msgid "referral##inviteViaEmail"
+msgstr ""
+
+msgid "referral##shareWithLinkedIn"
+msgstr ""
+
+msgid "referral##shareWithGooglePlus"
+msgstr ""
+
+msgid "referral##inviteSentSuccessfully"
+msgstr ""
+
+msgid "referral##youCanNotInviteYourself"
+msgstr ""
+
+msgid "referral##userAlreadyExists"
+msgstr ""
+
+msgid "projectSettings##projectSettings"
+msgstr ""
+
+msgid "projectSettings##projectName"
+msgstr ""
+
+msgid "projectSettings##timezone"
+msgstr ""
+
+msgid "projectSettings##export"
+msgstr ""
+
+msgid "projectSettings##exportTasksAsCSV"
+msgstr ""
+
+msgid "projectSettings##exportTasksAsMSProject"
+msgstr ""
+
+msgid "projectSettings##exportRaci"
+msgstr ""
+
+msgid "projectSettings##import"
+msgstr ""
+
+msgid "projectSettings##importMSProject"
+msgstr ""
+
+msgid "projectSettings##successfulImport"
+msgstr ""
+
+msgid "projectSettings##waitWhileExport"
+msgstr ""
+
+msgid "projectSettings##successfulExport"
+msgstr ""
+
+msgid "projectSettings##collaborators"
+msgstr ""
+
+msgid "projectSettings##remove"
+msgstr ""
+
+msgid "projectSettings##invitePeople"
+msgstr ""
+
+msgid "projectSettings##successfulUpdate"
+msgstr ""
+
+msgid "projectSettings##removeUserConfirm"
+msgstr ""
+
+msgid "projectSettings##projectNameCanNotBeBlank"
+msgstr ""
+
+msgid "projectSettings##collaboratorsCanNotUpdate"
+msgstr ""
+
+msgid "projectSettings##ganttStartDate"
+msgstr ""
+
+msgid "projectSettings##currentDate"
+msgstr ""
+
+msgid "projectSettings##projectCreationDate"
+msgstr ""
+
+msgid "projectSettings##firstTaskStartDate"
+msgstr ""
+
+msgid "projectSettings##projectDesc"
+msgstr "
+
+msgid "ganttView##title"
+msgstr ""
+
+msgid "ganttView##addChild"
+msgstr ""
+
+msgid "ganttView##addTask"
+msgstr ""
+
+msgid "ganttView##day"
+msgstr ""
+
+msgid "ganttView##week"
+msgstr ""
+
+msgid "ganttView##month"
+msgstr ""
+
+msgid "ganttView##year"
+msgstr ""
+
+msgid "ganttView##newTask"
+msgstr ""
+
+msgid "ganttView##cancel"
+msgstr ""
+
+msgid "ganttView##deleteTask"
+msgstr ""
+
+msgid "ganttView##delete"
+msgstr ""
+
+msgid "ganttView##start"
+msgstr ""
+
+msgid "ganttView##end"
+msgstr ""
+
+msgid "ganttView##task"
+msgstr ""
+
+msgid "ganttView##save"
+msgstr ""
+
+msgid "ganttView##complete"
+msgstr ""
+
+msgid "ganttView##confirmDelete"
+msgstr ""
+
+msgid "riskView##loading"
+msgstr ""
+
+msgid "riskView##createFirstRisk"
+msgstr ""
+
+msgid "riskView##exportAsCsv"
+msgstr ""
+
+msgid "riskView##name"
+msgstr ""
+
+msgid "riskView##topic"
+msgstr ""
+
+msgid "riskView##probability"
+msgstr ""
+
+msgid "riskView##impact"
+msgstr ""
+
+msgid "riskView##score"
+msgstr ""
+
+msgid "riskView##associatedTask"
+msgstr ""
+
+msgid "riskView##files"
+msgstr ""
+
+msgid "riskView##delete"
+msgstr ""
+
+msgid "riskView##enterTaskName"
+msgstr ""
+
+msgid "riskView##chooseFromDropbox"
+msgstr ""
+
+msgid "riskView##chooseFromGoogle"
+msgstr ""
+
+msgid "riskView##chooseFromOneDrive"
+msgstr ""
+
+msgid "riskView##upload"
+msgstr ""
+
+msgid "riskView##newRisk"
+msgstr ""
+
+msgid "riskView##deleteRiskConfirm"
+msgstr ""
+
+msgid "riskView##uploading"
+msgstr ""
+
+msgid "riskView##failToUpload"
+msgstr ""
+
+msgid "riskView##deleteFileConfirm"
+msgstr ""
+
+msgid "raciView##loading"
+msgstr ""
+
+msgid "raciView##createTasksFirst"
+msgstr ""
+
+msgid "raciView##createNewResource"
+msgstr ""
+
+msgid "raciView##exportAsCsv"
+msgstr ""
+
+msgid "raciView##task"
+msgstr ""
+
+msgid "raciView##addResource"
+msgstr ""
+
+msgid "raciView##add"
+msgstr ""
+
+msgid "raciView##unassigned"
+msgstr ""
+
+msgid "raciView##responsible"
+msgstr ""
+
+msgid "raciView##accountable"
+msgstr ""
+
+msgid "raciView##consulted"
+msgstr ""
+
+msgid "raciView##informed"
+msgstr ""
+
+msgid "raciView##alreadyExists"
+msgstr ""
+
+msgid "raciView##resourceAlreadyExists"
+msgstr ""
+
+msgid "raciView##deleteResourceConfirm"
+msgstr ""
+
+msgid "raciView##onlyProjectCreatorCanChangeRACI"
+msgstr ""
+
+msgid "reset##resetPassword"
+msgstr ""
+
+msgid "reset##yourEmail"
+msgstr ""
+
+msgid "reset##sendLink"
+msgstr ""
+
+msgid "reset##reset"
+msgstr ""
+
+msgid "reset##passwordsNotMatch"
+msgstr ""
+
+msgid "reset##successfulReset"
+msgstr ""
+
+msgid "reset##invalidToken"
+msgstr ""
+
+msgid "reset##linkSent"
+msgstr ""
+
+msgid "invite##inviteCollaborator"
+msgstr ""
+
+msgid "invite##upgradePlanNotice"
+msgstr ""
+
+msgid "invite##enterEmail"
+msgstr ""
+
+msgid "invite##invite"
+msgstr ""
+
+msgid "invite##existingCollaborators"
+msgstr ""
+
+msgid "invite##waitingForRegistration"
+msgstr ""
+
+msgid "invite##noPermission"
+msgstr ""
+
+msgid "invite##userIsProjectOwner"
+msgstr ""
+
+msgid "invite##alreadyInvited"
+msgstr ""
+
+msgid "invite##alreadyAdded"
+msgstr ""
+
+msgid "invite##collaboratorInvited"
+msgstr ""
+
+msgid "riskModal##updateRisk"
+msgstr ""
+
+msgid "riskModal##name"
+msgstr ""
+
+msgid "riskModal##topic"
+msgstr ""
+
+msgid "riskModal##probability"
+msgstr ""
+
+msgid "riskModal##impact"
+msgstr ""
+
+msgid "riskModal##riskScore"
+msgstr ""
+
+msgid "riskModal##mitigation"
+msgstr ""
+
+msgid "riskModal##contingency"
+msgstr ""
+
+msgid "riskModal##consequence"
+msgstr ""
+
+msgid "riskModal##update"
+msgstr ""
+
+msgid "riskModal##newRisk"
+msgstr ""
+
+msgid "riskModal##save"
+msgstr ""
+
+msgid "riskModal##newRisks"
+msgstr ""
+
+msgid "tour##prev"
+msgstr ""
+
+msgid "tour##next"
+msgstr ""
+
+msgid "tour##endTour"
+msgstr ""
+
+msgid "tour##taskDetails"
+msgstr ""
+
+msgid "tour##listViewContent"
+msgstr ""
+
+msgid "tour##wbsChart"
+msgstr ""
+
+msgid "tour##detailViewContent"
+msgstr ""
+
+msgid "tour##ganttChart"
+msgstr ""
+
+msgid "tour##ganttViewContent"
+msgstr ""
+
+msgid "tour##agileArea"
+msgstr ""
+
+msgid "tour##agileContent"
+msgstr ""
+
+msgid "tour##raciChart"
+msgstr ""
+
+msgid "tour##raciContent"
+msgstr ""
+
+msgid "tour##riskRegister"
+msgstr ""
+
+msgid "tour##riskContent"
+msgstr ""
+
+msgid "tour##freeMonth"
+msgstr ""
+
+msgid "tour##freeMonthContent"
+msgstr ""
+
+msgid "tour##account"
+msgstr ""
+
+msgid "tour##accountContent"
+msgstr ""
+
+msgid "tour##payments"
+msgstr ""
+
+msgid "tour##paymentsContent"
+msgstr ""
+
+msgid "tour##collaborators"
+msgstr ""
+
+msgid "tour##collaboratorsContent"
+msgstr ""
+
+msgid "tour##goodTalk"
+msgstr ""
+
+msgid "tour##goodTalkContent"
+msgstr ""
+
+msgid "tour##settings"
+msgstr ""
+
+msgid "tour##settingsContent"
+msgstr ""
+
+msgid "schemeAssign##assignUser"
+msgstr ""
+
+msgid "schemeAssign##assignedUsers"
+msgstr ""
+
+msgid "schemeAssign##enterEmail"
+msgstr ""
+
+msgid "wbsView##deleteTaskConfirm"
+msgstr ""
+
+msgid "activityFeed##activityFeed"
+msgstr ""
+
+msgid "activityFeed##loading"
+msgstr ""
+
+msgid "activityFeed##openProject"
+msgstr ""
+
+msgid "activityFeed##addTask"
+msgstr ""
+
+msgid "activityFeed##updateTask"
+msgstr ""
+
+msgid "activityFeed##updateTaskAssignment"
+msgstr ""
+
+msgid "activityFeed##deleteTask"
+msgstr ""
+
+msgid "activityFeed##uploadTaskFile"
+msgstr ""
+
+msgid "activityFeed##deleteTaskFile"
+msgstr ""
+
+msgid "activityFeed##addQuality"
+msgstr ""
+
+msgid "activityFeed##updateQuality"
+msgstr ""
+
+msgid "activityFeed##deleteQuality"
+msgstr ""
+
+msgid "activityFeed##addDependency"
+msgstr ""
+
+msgid "activityFeed##deleteDependency"
+msgstr ""
+
+msgid "activityFeed##addRisk"
+msgstr ""
+
+msgid "activityFeed##updateRisk"
+msgstr ""
+
+msgid "activityFeed##attachRisk"
+msgstr ""
+
+msgid "activityFeed##detachRisk"
+msgstr ""
+
+msgid "activityFeed##addFileToRisk"
+msgstr ""
+
+msgid "activityFeed##deleteFileFromRisk"
+msgstr ""
+
+msgid "activityFeed##deleteRisk"
+msgstr ""
+
+msgid "activityFeed##addComment"
+msgstr ""
+
+msgid "activityFeed##upvoteComment"
+msgstr ""
+
+msgid "activityFeed##removeComment"
+msgstr ""
+
+msgid "activityFeed##addRaci"
+msgstr ""
+
+msgid "activityFeed##addBoard"
+msgstr ""
+
+msgid "activityFeed##renameBoard"
+msgstr ""
+
+msgid "activityFeed##deleteBoard"
+msgstr ""
+
+msgid "activityFeed##addList"
+msgstr ""
+
+msgid "activityFeed##updateList"
+msgstr ""
+
+msgid "activityFeed##deleteList"
+msgstr ""
+
+msgid "activityFeed##addTaskToList"
+msgstr ""
+
+msgid "activityFeed##removeTaskFromList"
+msgstr ""
+
+msgid "activityFeed##removeResource"
+msgstr ""
+
+msgid "activityFeed##updateRaciRole"
+msgstr ""
+
+msgid "activityFeed##updateNodePosition"
+msgstr ""

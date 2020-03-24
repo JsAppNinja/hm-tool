@@ -1,0 +1,1294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TaskHammer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-05-23 13:01-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "global##successfulUpdate"
+msgstr "Actualizado exitosamente"
+
+msgid "global##successfulCreate"
+msgstr "Creado exitosamente"
+
+msgid "global##viewTutorialVideo"
+msgstr "Para ver un video tutorial sobre esta pantalla por favor haga clic"
+
+msgid "global##here"
+msgstr "aquí"
+
+msgid "global##list"
+msgstr "Lista"
+
+msgid "global##wbs"
+msgstr "Organigrama"
+
+msgid "global##gantt"
+msgstr "Gantt"
+
+msgid "global##agile"
+msgstr "Ágil"
+
+msgid "global##raci"
+msgstr "RACI"
+
+msgid "global##risks"
+msgstr "Riesgos"
+
+msgid "global##settings"
+msgstr "Configuración"
+
+msgid "global##help"
+msgstr "Ayuda"
+
+msgid "global##invalidEmail"
+msgstr "El email no es válido."
+
+msgid "global##projectNotFound"
+msgstr "El proyecto no es encontrado."
+
+msgid "signIn##signInToPlanHammer"
+msgstr "Iniciar sesión en PlanHammer"
+
+msgid "signIn##usernameOrEmail"
+msgstr "Usuario o Email"
+
+msgid "signIn##enterUsernameOrEmail"
+msgstr "Introduzca su Usuario o Email"
+
+msgid "signIn##password"
+msgstr "Contraseña"
+
+msgid "signIn##signIn"
+msgstr "Iniciar sesión"
+
+msgid "signIn##createAccount"
+msgstr "Crear una Cuenta"
+
+msgid "signIn##resetPassword"
+msgstr "Restablecer Contraseña"
+
+msgid "signIn##signInWithGoogle"
+msgstr "Iniciar sesión con Google"
+
+msgid "signIn##signInWithLinkedIn"
+msgstr "Iniciar sesión con LinkedIn"
+
+msgid "signIn##signInWithWindowsLive"
+msgstr "Iniciar sesión con Windows Live"
+
+msgid "signIn##unknownUser"
+msgstr "Usuario desconocido"
+
+msgid "signIn##confirmEmail"
+msgstr "Por favor confirme su email"
+
+msgid "signIn##invalidPassword"
+msgstr "Contraseña invalida"
+
+msgid "signUp##getStarted"
+msgstr "Empieza con una Cuenta Gratuita"
+
+msgid "signUp##signUpQuickly"
+msgstr ""
+"Crear una cuenta en menos de 30 segundos. No requiere tarjeta de crédito."
+
+msgid "signUp##creating"
+msgstr "Creando..."
+
+msgid "signUp##signUpWithGoogle"
+msgstr "Crear cuenta con Google"
+
+msgid "signUp##signUpWithLinkedIn"
+msgstr "Crear cuenta con LinkedIn"
+
+msgid "signUp##signUpWithWindowsLive"
+msgstr "Crear cuenta con Windows Live"
+
+msgid "signUp##email"
+msgstr "Email"
+
+msgid "signUp##emailAddress"
+msgstr "Email"
+
+msgid "signUp##whatIsYourEmail"
+msgstr "¿Cuál es tu email?"
+
+msgid "signUp##username"
+msgstr "Usuario"
+
+msgid "signUp##chooseUsername"
+msgstr "Escoger usuario"
+
+msgid "signUp##password"
+msgstr "Contraseña"
+
+msgid "signUp##confirmPassword"
+msgstr "Confirmar Contraseña"
+
+msgid "signUp##passwordConfirmation"
+msgstr "Confirmación de la Contraseña"
+
+msgid "signUp##signUp"
+msgstr "Crear Cuenta"
+
+msgid "signUp##alreadyHaveAccount"
+msgstr "Ya Tengo Cuenta"
+
+msgid "signUp##passwordsNotMatch"
+msgstr "Las contraseñas no coinciden."
+
+msgid "signUp##emailOrUsernameExists"
+msgstr "El email o el usuario ya existe."
+
+msgid "confirmation##confirmed"
+msgstr "El email ha sido confirmado exitosamente. Puedes iniciar sesión."
+
+msgid "confirmation##invalid"
+msgstr "El enlace de confirmación no es válido o ha expirado."
+
+msgid "account##accountInformation"
+msgstr "Información de la Cuenta"
+
+msgid "account##profile"
+msgstr "Perfil"
+
+msgid "account##uploadPicture"
+msgstr "Subir Foto de Perfil"
+
+msgid "account##unsupportedFileType"
+msgstr "Tipo de archivo no soportado"
+
+msgid "account##username"
+msgstr "Usuario"
+
+msgid "account##password"
+msgstr "Contraseña"
+
+msgid "account##newPassword"
+msgstr "Nueva Contraseña"
+
+msgid "account##confirmNewPassword"
+msgstr "Confirmar Nueva Contraseña"
+
+msgid "account##firstName"
+msgstr "Nombre"
+
+msgid "account##lastName"
+msgstr "Apellido"
+
+msgid "account##email"
+msgstr "Email"
+
+msgid "account##streetAddress"
+msgstr "Dirección"
+
+msgid "account##city"
+msgstr "Ciudad"
+
+msgid "account##state"
+msgstr "Estado"
+
+msgid "account##zipCode"
+msgstr "Código Postal"
+
+msgid "account##country"
+msgstr "País"
+
+msgid "account##language"
+msgstr "Idioma"
+
+msgid "account##update"
+msgstr "Actualizar"
+
+msgid "account##payments"
+msgstr "Pagos"
+
+msgid "account##currentPlanInfo"
+msgstr "El plan actual es: __planName__"
+
+msgid "account##nextPaymentInfo"
+msgstr "El próximo pago será el __expDate__ por __amount__."
+
+msgid "account##creditCard"
+msgstr "Tarjeta de Crédito"
+
+msgid "account##enterCardNumber"
+msgstr "Introduce el número de tarjeta."
+
+msgid "account##enterNameOnCard"
+msgstr "Introduzca el nombre en la tarjeta."
+
+msgid "account##cvc"
+msgstr "CVC:"
+
+msgid "account##expiryDate"
+msgstr "Fecha de Expiración:"
+
+msgid "account##updateCard"
+msgstr "Actualizar Tarjeta"
+
+msgid "account##cardAlreadyAdded"
+msgstr "Tarjeta ya agregada"
+
+msgid "account##addNew"
+msgstr "Agregar nuevo"
+
+msgid "account##enterCouponCode"
+msgstr "Introduzca el código del cupón."
+
+msgid "account##addCoupon"
+msgstr "Agregar Cupón"
+
+msgid "account##deactivateAccount"
+msgstr "Desactivar Cuenta"
+
+msgid "account##collaborators"
+msgstr "Colaboradores"
+
+msgid "account##noCollaborators"
+msgstr ""
+"Nada que ver aqui. Invitar colaboradores para organizar las tareas en la "
+"pestaña de \"Proyectos\"."
+
+msgid "account##confirmCollaboratorDelete"
+msgstr "¿Seguro que desea eliminar el colaborador de todos los proyectos?"
+
+msgid "account##delete"
+msgstr "Eliminar"
+
+msgid "account##currentPassword"
+msgstr "Contraseña Actual"
+
+msgid "account##invalidCurrentPassword"
+msgstr "Contraseña Actual no válida."
+
+msgid "account##userOrEmailTaken"
+msgstr "El usuario o el email ya está en uso."
+
+msgid "account##passwordLenghtError"
+msgstr "La longitud de la contraseña no está dentro del rango."
+
+msgid "account##creditCardAdded"
+msgstr "Tarjeta de crédito agregada."
+
+msgid "account##confirmAccountDelete"
+msgstr "¿Está seguro? Todos los datos serán borrados de forma permanente."
+
+msgid "account##couponAdded"
+msgstr "Cupón agregado."
+
+msgid "projectList##projects"
+msgstr "Proyectos"
+
+msgid "projectList##createNewProject"
+msgstr "Crear un Nuevo Proyecto"
+
+msgid "projectList##createFirstProject"
+msgstr "Crea tu primer proyecto haciendo clic"
+
+msgid "projectList##new"
+msgstr "Nuevo"
+
+msgid "projectList##myProjects"
+msgstr "Mis Proyectos"
+
+msgid "projectList##options"
+msgstr "Opciones"
+
+msgid "projectList##open"
+msgstr "Abrir"
+
+msgid "projectList##invite"
+msgstr "Invitar"
+
+msgid "projectList##settings"
+msgstr "Configuración"
+
+msgid "projectList##delete"
+msgstr "Eliminar"
+
+msgid "projectList##clone"
+msgstr "Duplicar"
+
+msgid "projectList##projectsShared"
+msgstr "Proyectos Compartidos Conmigo"
+
+msgid "projectList##confirmDelete"
+msgstr "¿Seguro que quieres eliminar este proyecto?"
+
+msgid "projectList##loading"
+msgstr "CARGANDO"
+
+msgid "nav##freePeriodExpires"
+msgstr "El periodo gratis termina el __subscription__"
+
+msgid "nav##tour"
+msgstr "Tour"
+
+msgid "nav##freeMonth"
+msgstr "Mes Gratis"
+
+msgid "nav##projects"
+msgstr "Proyectos"
+
+msgid "nav##feedback"
+msgstr "Retroalimentación"
+
+msgid "nav##account"
+msgstr "Cuenta"
+
+msgid "nav##logout"
+msgstr "Cerrar sesión"
+
+msgid "projectCreate##createNewProject"
+msgstr "Crear un Nuevo Proyecto"
+
+msgid "projectCreate##upgradePlan"
+msgstr "Por favor, actualiza tu plan para crear un nuevo proyecto."
+
+msgid "projectCreate##name"
+msgstr "Nombre"
+
+msgid "projectCreate##enterProjectName"
+msgstr "Introduzca el nombre del proyecto"
+
+msgid "projectCreate##description"
+msgstr "Descripción"
+
+msgid "projectCreate##useQualityChecklist"
+msgstr "¿Utilizar lista de control de calidad para el progreso de las tareas?"
+
+msgid "projectCreate##create"
+msgstr "Crear"
+
+msgid "projectCreate##failToSave"
+msgstr "Error al guardar el proyecto"
+
+msgid "listView##filterByAssignee"
+msgstr "Filtrar por Asignado"
+
+msgid "listView##allUsers"
+msgstr "Todos los usuarios"
+
+msgid "listView##hideCompleteTasks"
+msgstr "Ocultar Tareas Terminadas"
+
+msgid "listView##createTask"
+msgstr "Crear Tarea"
+
+msgid "listView##loading"
+msgstr "CARGANDO"
+
+msgid "listView##deleteTaskConfirm"
+msgstr "¿Eliminar tarea?"
+
+msgid "listView##unassigned"
+msgstr "Sin asignar"
+
+msgid "agileView##loading"
+msgstr "CARGANDO"
+
+msgid "agileView##createNewBoard"
+msgstr "+ Crear Nuevo Tablero"
+
+msgid "agileView##enterBoardName"
+msgstr "introduzca el nombre del tablero"
+
+msgid "agileView##renameBoard"
+msgstr "Renombrar Tablero"
+
+msgid "agileView##deleteBoard"
+msgstr "Eliminar Tablero"
+
+msgid "agileView##createNewBoardInQuotes"
+msgstr "\"Crear Nuevo Tablero\""
+
+msgid "agileView##toGetStarted"
+msgstr "para empezar."
+
+msgid "agileView##createTask"
+msgstr "Crear Tarea"
+
+msgid "agileView##addTask"
+msgstr "Agregar Tarea"
+
+msgid "agileView##addTasks"
+msgstr "Agregar Tareas"
+
+msgid "agileView##addChildTask"
+msgstr "Agregar Sub Tarea"
+
+msgid "agileView##importTasks"
+msgstr "Importar Tareas"
+
+msgid "agileView##deleteList"
+msgstr "Eliminar Lista"
+
+msgid "agileView##clearList"
+msgstr "Limpiar Lista"
+
+msgid "agileView##add"
+msgstr "Agregar Selección"
+
+msgid "agileView##markAll"
+msgstr "Marcar Todas"
+
+msgid "agileView##unmarkAll"
+msgstr "Desmarcar Todas"
+
+msgid "agileView##addByAssignee"
+msgstr "Agregar por asignado"
+
+msgid "agileView##assignTasksToUsersFirst"
+msgstr "Asignar tareas a usuarios primero"
+
+msgid "agileView##removeFromList"
+msgstr "Eliminar de la lista"
+
+msgid "agileView##delete"
+msgstr "Eliminar"
+
+msgid "agileView##enterListName"
+msgstr "Introduzca nombre de la lista"
+
+msgid "agileView##newList"
+msgstr "+ Nueva Lista..."
+
+msgid "agileView##enterToCreateNewBoard"
+msgstr "Pulse Intro para crear el nuevo tablero."
+
+msgid "agileView##enterToCreateNewList"
+msgstr "Pulse Intro para crear la nueva lista."
+
+msgid "agileView##createFirstList"
+msgstr "Crea tu primer lista haciendo clic"
+
+msgid "agileView##newListInQuotes"
+msgstr "\"Nueva Lista\"."
+
+msgid "agileView##deleteTaskConfirm"
+msgstr "¿Eliminar tarea?"
+
+msgid "agileView##taskCount"
+msgstr "__count__ tarea(s)"
+
+msgid "taskForm##createSubTask"
+msgstr "Crear Sub-Tarea"
+
+msgid "taskForm##selectBoard"
+msgstr "Seleccionar Tablero"
+
+msgid "taskForm##enterBoardName"
+msgstr "introduzca el nombre del tablero"
+
+msgid "taskForm##plusNewBoard"
+msgstr "+ Nuevo Tablero"
+
+msgid "taskForm##selectList"
+msgstr "Seleccionar Lista"
+
+msgid "taskForm##enterListName"
+msgstr "introduzca el nombre de la lista"
+
+msgid "taskForm##plusNewList"
+msgstr "+ Nueva Lista"
+
+msgid "taskForm##assign"
+msgstr "Asignar"
+
+msgid "taskForm##inviteUsersToAssign"
+msgstr "Invitar usuarios para asignar"
+
+msgid "taskForm##files"
+msgstr "Archivos"
+
+msgid "taskForm##openFile"
+msgstr "Abrir __source__"
+
+msgid "taskForm##delete"
+msgstr "Eliminar"
+
+msgid "taskForm##chooseFromDropbox"
+msgstr "Escoger de Dropbox"
+
+msgid "taskForm##chooseFromGoogle"
+msgstr "Escoger de Google"
+
+msgid "taskForm##chooseFromOneDrive"
+msgstr "Escoger de OneDrive"
+
+msgid "taskForm##upload"
+msgstr "Subir"
+
+msgid "taskForm##checklist"
+msgstr "Lista de Control (Checklist)"
+
+msgid "taskForm##addItem"
+msgstr "Agregar Item"
+
+msgid "taskForm##dependencies"
+msgstr "Dependencias"
+
+msgid "taskForm##findTask"
+msgstr "Encontar Tarea"
+
+msgid "taskForm##add"
+msgstr "Agregar"
+
+msgid "taskForm##risks"
+msgstr "Riesgos"
+
+msgid "taskForm##addRisk"
+msgstr "Agregar Riesgo"
+
+msgid "taskForm##associateWithRisk"
+msgstr "Asociar con Riesgo"
+
+msgid "taskForm##removeRisk"
+msgstr "Eliminar riesgo"
+
+msgid "taskForm##deleteRisk"
+msgstr "Eliminar riesgo"
+
+msgid "taskForm##comments"
+msgstr "Comentarios"
+
+msgid "taskForm##reply"
+msgstr "responder"
+
+msgid "taskForm##comment"
+msgstr "Comentar"
+
+msgid "taskForm##yourComment"
+msgstr "Tu comentario..."
+
+msgid "taskForm##timezone"
+msgstr "Zona horaria:"
+
+msgid "taskForm##notSet"
+msgstr "No establecido"
+
+msgid "taskForm##startDate"
+msgstr "Fecha Inicial"
+
+msgid "taskForm##endDate"
+msgstr "Fecha Final"
+
+msgid "taskForm##complete"
+msgstr "Terminado"
+
+msgid "taskForm##duration"
+msgstr "Duración"
+
+msgid "taskForm##numberHere"
+msgstr "Número aquí"
+
+msgid "taskForm##subTaskDurationSum"
+msgstr "Duración Total de Subtareas: __duration__ Hours"
+
+msgid "taskForm##optimisticTime"
+msgstr "Tiempo Optimista"
+
+msgid "taskForm##pessimisticTime"
+msgstr "Tiempo Pesimista"
+
+msgid "taskForm##mostLikelyTime"
+msgstr "Tiempo Más Probable"
+
+msgid "taskForm##expectedTime"
+msgstr "Tiempo Esperado: __duration__ __type__"
+
+msgid "taskForm##cost"
+msgstr "Costo"
+
+msgid "taskForm##costSum"
+msgstr "Costo Total: __sum__"
+
+msgid "taskForm##user"
+msgstr "Usuario"
+
+msgid "taskForm##role"
+msgstr "Rol"
+
+msgid "taskForm##unassigned"
+msgstr "No asignado"
+
+msgid "taskForm##responsible"
+msgstr "Responsable"
+
+msgid "taskForm##accountable"
+msgstr "Quien rinde cuentas"
+
+msgid "taskForm##consulted"
+msgstr "Consultado"
+
+msgid "taskForm##informed"
+msgstr "Informado"
+
+msgid "taskForm##person"
+msgstr "Persona"
+
+msgid "taskForm##info"
+msgstr "Info"
+
+msgid "taskForm##timeCost"
+msgstr "Tiempo y Costo"
+
+msgid "taskForm##raci"
+msgstr "RACI"
+
+msgid "taskForm##uploading"
+msgstr "Subiendo..."
+
+msgid "taskForm##failToUpload"
+msgstr "Error al subir un archivo."
+
+msgid "taskForm##typeAndPressEnter"
+msgstr "Escriba y pulse intro"
+
+msgid "taskForm##onlyProjectCreatorCanChangeRACI"
+msgstr "Sólo el creador del proyecto puede cambiar los roles RACI"
+
+msgid "referral##invitePeople"
+msgstr "Recomienda a otras personas usar PlanHammer"
+
+msgid "referral##referralDescription"
+msgstr ""
+"Obtendrás un mes gratis automáticamente por cada persona que cree una cuenta "
+"nueva desde tu enlace. (Ellos no serán invitados a colaborar en tu proyecto.)"
+
+msgid "referral##email"
+msgstr "Email"
+
+msgid "referral##enterEmail"
+msgstr "Introduzca email del usuario"
+
+msgid "referral##message"
+msgstr "Mensaje"
+
+msgid "referral##inviteViaEmail"
+msgstr "Invitar Via Email"
+
+msgid "referral##shareWithLinkedIn"
+msgstr "Compartir con LinkedIn"
+
+msgid "referral##shareWithGooglePlus"
+msgstr "Compartir con Google Plus"
+
+msgid "referral##inviteSentSuccessfully"
+msgstr "Invitación enviada exitosamente"
+
+msgid "referral##youCanNotInviteYourself"
+msgstr "No puedes invitarte a ti mismo"
+
+msgid "referral##userAlreadyExists"
+msgstr "El usuario ya existe"
+
+msgid "projectSettings##projectSettings"
+msgstr "Configuración del Proyecto"
+
+msgid "projectSettings##projectName"
+msgstr "Nombre del Proyecto"
+
+msgid "projectSettings##timezone"
+msgstr "Zona horaria"
+
+msgid "projectSettings##export"
+msgstr "Exportar"
+
+msgid "projectSettings##exportTasksAsCSV"
+msgstr "Exportar Tareas como CSV"
+
+msgid "projectSettings##exportTasksAsMSProject"
+msgstr "Exportar tareas como un archivo de Microsoft Project"
+
+msgid "projectSettings##exportRaci"
+msgstr "Exportar RACI"
+
+msgid "projectSettings##import"
+msgstr "Importar"
+
+msgid "projectSettings##importMSProject"
+msgstr "Importar de Microsoft Project"
+
+msgid "projectSettings##successfulImport"
+msgstr "Importado exitosamente."
+
+msgid "projectSettings##waitWhileExport"
+msgstr "Por favor espere mientras exporta el proyecto"
+
+msgid "projectSettings##successfulExport"
+msgstr "Exportado exitosamente."
+
+msgid "projectSettings##collaborators"
+msgstr "Colaboradores"
+
+msgid "projectSettings##remove"
+msgstr "Eliminar"
+
+msgid "projectSettings##invitePeople"
+msgstr "+ Invitar más personas"
+
+msgid "projectSettings##successfulUpdate"
+msgstr "Proyecto actualizado exitosamente"
+
+msgid "projectSettings##removeUserConfirm"
+msgstr "¿Eliminar usuario del proyecto?"
+
+msgid "projectSettings##projectNameCanNotBeBlank"
+msgstr "El Nombre del Proyecto no puede estar vacio"
+
+msgid "projectSettings##collaboratorsCanNotUpdate"
+msgstr "Los colaboradores no pueden actualizar el proyecto"
+
+msgid "projectSettings##ganttStartDate"
+msgstr "Fecha inicial Gantt"
+
+msgid "projectSettings##currentDate"
+msgstr "Fecha actual"
+
+msgid "projectSettings##projectCreationDate"
+msgstr "Fecha de creación del proyecto"
+
+msgid "projectSettings##firstTaskStartDate"
+msgstr "Fecha inicial de la primer tarea"
+
+msgid "projectSettings##projectDesc"
+msgstr "Descripción del Proyecto"
+
+msgid "ganttView##title"
+msgstr "Título"
+
+msgid "ganttView##addChild"
+msgstr "Añadir Niño"
+
+msgid "ganttView##addTask"
+msgstr "Agregar Tarea"
+
+msgid "ganttView##day"
+msgstr "Día"
+
+msgid "ganttView##week"
+msgstr "Semana"
+
+msgid "ganttView##month"
+msgstr "Mes"
+
+msgid "ganttView##year"
+msgstr "Curso"
+
+msgid "ganttView##newTask"
+msgstr "Nueva tarea"
+
+msgid "ganttView##cancel"
+msgstr "Cancelar"
+
+msgid "ganttView##deleteTask"
+msgstr "Eliminar tarea"
+
+msgid "ganttView##delete"
+msgstr "Eliminar"
+
+msgid "ganttView##start"
+msgstr "Inicio"
+
+msgid "ganttView##end"
+msgstr "Fin"
+
+msgid "ganttView##task"
+msgstr "Tarea"
+
+msgid "ganttView##save"
+msgstr "Guardar"
+
+msgid "ganttView##complete"
+msgstr "Terminado"
+
+msgid "ganttView##confirmDelete"
+msgstr "¿Seguro que quieres eliminar esta tarea?"
+
+msgid "riskView##loading"
+msgstr "CARGANDO"
+
+msgid "riskView##createFirstRisk"
+msgstr "Crea tu primer Riesgo aquí, o en los atributos de cualquier tarea."
+
+msgid "riskView##exportAsCsv"
+msgstr "Exportar como CSV"
+
+msgid "riskView##name"
+msgstr "Nombre"
+
+msgid "riskView##topic"
+msgstr "Tema"
+
+msgid "riskView##probability"
+msgstr "Probabilidad"
+
+msgid "riskView##impact"
+msgstr "Impacto"
+
+msgid "riskView##score"
+msgstr "Marcador"
+
+msgid "riskView##associatedTask"
+msgstr "Tarea Asociada"
+
+msgid "riskView##files"
+msgstr "Archivos"
+
+msgid "riskView##delete"
+msgstr "Eliminar"
+
+msgid "riskView##enterTaskName"
+msgstr "Por favor, introduzca el nombre de la tarea"
+
+msgid "riskView##chooseFromDropbox"
+msgstr "Escoger de Dropbox"
+
+msgid "riskView##chooseFromGoogle"
+msgstr "Escoger de Google"
+
+msgid "riskView##chooseFromOneDrive"
+msgstr "Escoger de OneDrive"
+
+msgid "riskView##upload"
+msgstr "Subir"
+
+msgid "riskView##newRisk"
+msgstr "+ Nuevo Riesgo"
+
+msgid "riskView##deleteRiskConfirm"
+msgstr "¿Eliminar riesgo?"
+
+msgid "riskView##uploading"
+msgstr "Subiendo..."
+
+msgid "riskView##failToUpload"
+msgstr "Error al subir un archivo."
+
+msgid "riskView##deleteFileConfirm"
+msgstr "¿Eliminar archivo?"
+
+msgid "raciView##loading"
+msgstr "CARGANDO"
+
+msgid "raciView##createTasksFirst"
+msgstr ""
+"Con el fin de asignar responsabilidades, por favor cree tareas primero."
+
+msgid "raciView##createNewResource"
+msgstr "Crea un Nuevo recurso haciendo clic en + en la última columna."
+
+msgid "raciView##exportAsCsv"
+msgstr "Exportar como CSV"
+
+msgid "raciView##task"
+msgstr "Tarea"
+
+msgid "raciView##addResource"
+msgstr "+ Agregar Recurso"
+
+msgid "raciView##add"
+msgstr "Agregar"
+
+msgid "raciView##unassigned"
+msgstr "No Asignado"
+
+msgid "raciView##responsible"
+msgstr "Responsable"
+
+msgid "raciView##accountable"
+msgstr "Quien rinde cuentas"
+
+msgid "raciView##consulted"
+msgstr "Consultado"
+
+msgid "raciView##informed"
+msgstr "Informado"
+
+msgid "raciView##alreadyExists"
+msgstr "Ya existe"
+
+msgid "raciView##resourceAlreadyExists"
+msgstr "El recurso ya existe"
+
+msgid "raciView##deleteResourceConfirm"
+msgstr "¿Eliminar recurso?"
+
+msgid "raciView##onlyProjectCreatorCanChangeRACI"
+msgstr "Sólo el creador del proyecto puede cambiar los roles RACI"
+
+msgid "reset##resetPassword"
+msgstr "Restablecer Contraseña"
+
+msgid "reset##yourEmail"
+msgstr "Tu Email"
+
+msgid "reset##sendLink"
+msgstr "Enviar Enlace"
+
+msgid "reset##reset"
+msgstr "Restablecer"
+
+msgid "reset##passwordsNotMatch"
+msgstr "Las contraseñas no coinciden."
+
+msgid "reset##successfulReset"
+msgstr "La contraseña fue restablecida exitosamente."
+
+msgid "reset##invalidToken"
+msgstr "El enlace no es válido o ha expirado."
+
+msgid "reset##linkSent"
+msgstr "El enlace fue enviado a tu email."
+
+msgid "invite##inviteCollaborator"
+msgstr "Invitar Colaborador"
+
+msgid "invite##upgradePlanNotice"
+msgstr ""
+"Invitar a un usuario adicional actualizará automáticamente su suscripción al "
+"plan \"__plan__\"."
+
+msgid "invite##enterEmail"
+msgstr "Por favor, introduzca su email"
+
+msgid "invite##invite"
+msgstr "Invitar"
+
+msgid "invite##existingCollaborators"
+msgstr "Colaboradores Existentes"
+
+msgid "invite##waitingForRegistration"
+msgstr "Esperando su registro"
+
+msgid "invite##noPermission"
+msgstr "No tienes permiso para invitar."
+
+msgid "invite##userIsProjectOwner"
+msgstr "El usuario es el propietario del proyecto."
+
+msgid "invite##alreadyInvited"
+msgstr "El usuario ya fue invitado."
+
+msgid "invite##alreadyAdded"
+msgstr "El usuario ya fue agregado"
+
+msgid "invite##collaboratorInvited"
+msgstr "Colaborador invitado."
+
+msgid "riskModal##updateRisk"
+msgstr "Actualizar Riesgo: __risk__"
+
+msgid "riskModal##name"
+msgstr "Nombre"
+
+msgid "riskModal##topic"
+msgstr "Tema"
+
+msgid "riskModal##probability"
+msgstr "Probabilidad"
+
+msgid "riskModal##impact"
+msgstr "Impacto"
+
+msgid "riskModal##riskScore"
+msgstr "Marcador de Riesgo"
+
+msgid "riskModal##mitigation"
+msgstr "Mitigación"
+
+msgid "riskModal##contingency"
+msgstr "Contingencia"
+
+msgid "riskModal##consequence"
+msgstr "Consecuencia"
+
+msgid "riskModal##update"
+msgstr "Actualizar"
+
+msgid "riskModal##newRisk"
+msgstr "Nuevo Riesgo"
+
+msgid "riskModal##save"
+msgstr "Guardar"
+
+msgid "riskModal##newRisks"
+msgstr "Nuevos Riesgos"
+
+msgid "tour##prev"
+msgstr "Anterior"
+
+msgid "tour##next"
+msgstr "Siguiente"
+
+msgid "tour##endTour"
+msgstr "Terminar Tour"
+
+msgid "tour##taskDetails"
+msgstr "Detalles de la Tarea"
+
+msgid "tour##listViewContent"
+msgstr ""
+"Escriba el nombre de la tarea y pulse la tecla Intro para crear una tarea. "
+"Siéntase libre de experimentar: agregando una descripción, subiendo un "
+"archivo, comentando, seleccionando dependencias y creando una lista de "
+"control (checklist)."
+
+msgid "tour##wbsChart"
+msgstr "Organigrama"
+
+msgid "tour##detailViewContent"
+msgstr ""
+"Aquí puedes ver las tareas en un diagrama de árbol. Un clic oculta o muestra "
+"las sub-tareas. Doble click permite editar el título. Situe el cursor sobre "
+"una tarea y haga clic en los pequeños iconos azules para cambiar la "
+"visualización de las sub-tareas. Clic en el signo más de la izquierda, "
+"derecha, arriba o abajo agrega una tarea. Pruébalo."
+
+msgid "tour##ganttChart"
+msgstr "Diagrama de GANTT"
+
+msgid "tour##ganttViewContent"
+msgstr ""
+"Esta es la vista estándar de GANTT para la programación de proyectos, "
+"práctico para el establecimiento de las fechas de inicio y fin, dependencias "
+"y duración de las tareas."
+
+msgid "tour##agileArea"
+msgstr "Vista Ágil"
+
+msgid "tour##agileContent"
+msgstr ""
+"La vista Ágil permite crear tantas tableros al estilo Kanban como desee. "
+"Algunas personas gustan crear un tablero por cada miembro del equipo, o "
+"podrías incluso crear un tablero por cada sprint, tu decides. Crea listas (o "
+"columnas) que representan el estado ágil de cada tarea. Las tareas sólo "
+"pueden pertenecer a un tablero ágil, por el bien de la cordura de todos. "
+"Puedes agregar tareas aquí que se crearon en otras vistas o agregar otras "
+"completamente nuevas."
+
+msgid "tour##raciChart"
+msgstr "Matriz RACI"
+
+msgid "tour##raciContent"
+msgstr ""
+"Vea quien debe hacerse cargo de qué. Los recursos son textos que no "
+"corresponden a usuarios de PlanHammer para que puedas escribir el nombre de "
+"los interesados u otros miembros del equipo que no están no registrados. Los "
+"usuarios asignados a una tarea son responsables automáticamente y el usuario "
+"que creó la tarea es automáticamente a quien se rinde cuentas. La matriz "
+"RACI se puede exportar como hoja electrónica para los de la vieja escuela."
+
+msgid "tour##riskRegister"
+msgstr "Registro de Riesgos"
+
+msgid "tour##riskContent"
+msgstr ""
+"Aquí puedes actualizar el registro de riesgos de tu proyecto mediante la "
+"adición de entradas de riesgo para realizar un seguimiento de esas "
+"incógnitas conocidas."
+
+msgid "tour##freeMonth"
+msgstr "Mes Gratis"
+
+msgid "tour##freeMonthContent"
+msgstr ""
+"Invita personas a usar PlanHammer vía email, Google + o LinkedIn. Si crean "
+"una cuenta a través de tu mensaje, obtendrás el siguiente mes gratis en "
+"PlanHammer automáticamente."
+
+msgid "tour##account"
+msgstr "Cuenta"
+
+msgid "tour##accountContent"
+msgstr ""
+"Aquí está tu información. Agregar tu nombre y apellido es útil para que se "
+"muestren en los comentarios y tareas asignadas en lugar de tu email."
+
+msgid "tour##payments"
+msgstr "Pagos"
+
+msgid "tour##paymentsContent"
+msgstr ""
+"Aqui es como nos envías el dinero. Agrega los detalles y la tarjeta cobra "
+"vida. Pruébalo. No almacenamos los datos de las tarjetas de crédito, "
+"simplemente los enviamos a nuestro procesador de pagos (Stripe). Los datos "
+"son protegidos por SSL. Pagas mensualmente en base al número de usuarios "
+"únicos que están colaborando en tus proyectos en la fecha del pago. Si "
+"quisieras eliminar tus colaboradores y luego agregarlos nuevamente, podrias "
+"hacerlo si realmente quisieras."
+
+msgid "tour##collaborators"
+msgstr "Colaboradores"
+
+msgid "tour##collaboratorsContent"
+msgstr ""
+"Aquí puedes ver la cantidad de personas que has invitado a tus proyectos. Si "
+"deseas reducir tus pagos, aquí es donde deben rodar las cabezas."
+
+msgid "tour##goodTalk"
+msgstr "Buena charla."
+
+msgid "tour##goodTalkContent"
+msgstr ""
+"Bueno, eso es todo amigos. Recuerde hacer clic en el botón de información en "
+"la barra lateral izquierda para ver videos detallados sobre la pantalla "
+"actual."
+
+msgid "tour##settings"
+msgstr "Configuración del Proyecto"
+
+msgid "tour##settingsContent"
+msgstr ""
+"Aquí puedes renombrar el proyecto, establecer la zona horaria e invitar o "
+"gestionar colaboradores."
+
+msgid "schemeAssign##assignUser"
+msgstr "Asignar Usuario"
+
+msgid "schemeAssign##assignedUsers"
+msgstr "Usuarios Asignados"
+
+msgid "schemeAssign##enterEmail"
+msgstr "Por favor, introduzca el email del usuario."
+
+msgid "wbsView##deleteTaskConfirm"
+msgstr "¿Eliminar tarea?"
+
+msgid "activityFeed##activityFeed"
+msgstr "Actividades"
+
+msgid "activityFeed##loading"
+msgstr "CARGANDO"
+
+msgid "activityFeed##openProject"
+msgstr "__user__ abrió \\\"__project__\\\"."
+
+msgid "activityFeed##addTask"
+msgstr "__user__ agregó la tarea \\\"__task__\\\"."
+
+msgid "activityFeed##updateTask"
+msgstr "__user__ actualizó la tarea \\\"__task__\\\"."
+
+msgid "activityFeed##updateTaskAssignment"
+msgstr "__user__ actualizó las asignaciones de \\\"__task__\\\"."
+
+msgid "activityFeed##deleteTask"
+msgstr "__user__ eliminó la tarea \\\"__task__\\\"."
+
+msgid "activityFeed##uploadTaskFile"
+msgstr "__user__ subió un archivo a la tarea \\\"__task__\\\"."
+
+msgid "activityFeed##deleteTaskFile"
+msgstr "__user__ eliminó un archivo de la tarea \\\"__task__\\\"."
+
+msgid "activityFeed##addQuality"
+msgstr "__user__ agregó el checklist item \\\"__item__\\\" a \\\"__task__\\\"."
+
+msgid "activityFeed##updateQuality"
+msgstr "__user__ actualizó un checklist item en \\\"__task__\\\"."
+
+msgid "activityFeed##deleteQuality"
+msgstr ""
+"__user__ eliminó el checklist item \\\"__item__\\\" de \\\"__task__\\\"."
+
+msgid "activityFeed##addDependency"
+msgstr "__user__ agregó una dependencia a \\\"__task__\\\"."
+
+msgid "activityFeed##deleteDependency"
+msgstr "__user__ eliminó una dependencia de \\\"__task__\\\"."
+
+msgid "activityFeed##addRisk"
+msgstr "__user__ agregó el riesgo \\\"__risk__\\\"."
+
+msgid "activityFeed##updateRisk"
+msgstr "__user__ actualizó el riesgo \\\"__risk__\\\"."
+
+msgid "activityFeed##attachRisk"
+msgstr ""
+"__user__ asoció el riesgo \\\"__risk__\\\" a la tarea \\\"__task__\\\"."
+
+msgid "activityFeed##detachRisk"
+msgstr ""
+"__user__ eliminó el riesgo \\\"__risk__\\\" de la tarea \\\"__task__\\\"."
+
+msgid "activityFeed##addFileToRisk"
+msgstr "__user__ adjuntó un archivo al riesgo \\\"__risk__\\\"."
+
+msgid "activityFeed##deleteFileFromRisk"
+msgstr "__user__ eliminó un archivo del riesgo \\\"__risk__\\\"."
+
+msgid "activityFeed##deleteRisk"
+msgstr "__user__ eliminó el riesgo \\\"__risk__\\\"."
+
+msgid "activityFeed##addComment"
+msgstr "__user__ comentó en \\\"__task__\\\"."
+
+msgid "activityFeed##upvoteComment"
+msgstr "__user__ votó a favor un comentario en \\\"__task__\\\"."
+
+msgid "activityFeed##removeComment"
+msgstr "__user__ eliminó un comentario de \\\"__task__\\\"."
+
+msgid "activityFeed##addRaci"
+msgstr "__user__ agregó una asignación RACI a \\\"__task__\\\"."
+
+msgid "activityFeed##addBoard"
+msgstr "__user__ agregó el tablero \\\"__board__\\\"."
+
+msgid "activityFeed##renameBoard"
+msgstr "__user__ renombró el tablero \\\"__board__\\\"."
+
+msgid "activityFeed##deleteBoard"
+msgstr "__user__ eliminó el tablero \\\"__board__\\\"."
+
+msgid "activityFeed##addList"
+msgstr ""
+"__user__ agregó la lista \\\"__list__\\\" en el tablero \\\"__board__\\\"."
+
+msgid "activityFeed##updateList"
+msgstr ""
+"__user__ actualizó la lista \\\"__list__\\\" en el tablero \\\"__board__\\\"."
+
+msgid "activityFeed##deleteList"
+msgstr "__user__ eliminó la lista \\\"__list__\\\"."
+
+msgid "activityFeed##addTaskToList"
+msgstr ""
+"__user__ agregó \\\"__task__\\\" a \\\"__list__\\\" en el tablero \\"
+"\"__board__\\\"."
+
+msgid "activityFeed##removeTaskFromList"
+msgstr ""
+"__user__ eliminó \\\"__task__\\\" de \\\"__list__\\\" en el tablero \\"
+"\"__board__\\\"."
+
+msgid "activityFeed##removeResource"
+msgstr "__user__ eliminó \\\"__resource__\\\" de la matriz RACI."
+
+msgid "activityFeed##updateRaciRole"
+msgstr ""
+"__user__ actualizó el rol RACI de \\\"__resource__\\\" en \\\"__task__\\\"."
+
+msgid "activityFeed##updateNodePosition"
+msgstr "__user__ actualizó la posición de \\\"__task__\\\"."
+
+#~ msgid "taskForm##deleteFileConfirm"
+#~ msgstr "¿Eliminar archivo?"
+
+#~ msgid "taskForm##open"
+#~ msgstr "Open __source__"
+
+#~ msgid "global##searching"
+#~ msgstr "Searching..."

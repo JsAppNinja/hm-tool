@@ -1,0 +1,1298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TaskHammer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-05-23 13:02-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "global##successfulUpdate"
+msgstr "Successfully updated"
+
+msgid "global##successfulCreate"
+msgstr "Successfully created"
+
+msgid "global##viewTutorialVideo"
+msgstr "To view a tutorial video for this screen please click"
+
+msgid "global##here"
+msgstr "here"
+
+msgid "global##list"
+msgstr "List"
+
+msgid "global##wbs"
+msgstr "WBS"
+
+msgid "global##gantt"
+msgstr "Gantt"
+
+msgid "global##agile"
+msgstr "Agile"
+
+msgid "global##raci"
+msgstr "Raci"
+
+msgid "global##risks"
+msgstr "Risks"
+
+msgid "global##settings"
+msgstr "Settings"
+
+msgid "global##help"
+msgstr "Help"
+
+msgid "global##invalidEmail"
+msgstr "The email address is invalid."
+
+msgid "global##projectNotFound"
+msgstr "The project is not found."
+
+msgid "signIn##signInToPlanHammer"
+msgstr "Sign In To PlanHammer"
+
+msgid "signIn##usernameOrEmail"
+msgstr "Username or Email"
+
+msgid "signIn##enterUsernameOrEmail"
+msgstr "Enter a Username or Email"
+
+msgid "signIn##password"
+msgstr "Password"
+
+msgid "signIn##signIn"
+msgstr "Sign in"
+
+msgid "signIn##createAccount"
+msgstr "Create an Account"
+
+msgid "signIn##resetPassword"
+msgstr "Reset Password"
+
+msgid "signIn##signInWithGoogle"
+msgstr "Sign In With Google"
+
+msgid "signIn##signInWithLinkedIn"
+msgstr "Sign In With LinkedIn"
+
+msgid "signIn##signInWithWindowsLive"
+msgstr "Sign In With Windows Live"
+
+msgid "signIn##unknownUser"
+msgstr "Unknown user"
+
+msgid "signIn##confirmEmail"
+msgstr "Please confirm your email address"
+
+msgid "signIn##invalidPassword"
+msgstr "Invalid password"
+
+msgid "signUp##getStarted"
+msgstr "Get Started with a Free Account"
+
+msgid "signUp##signUpQuickly"
+msgstr "Sign Up in less than 30 seconds. No credit card required."
+
+msgid "signUp##creating"
+msgstr "Creating..."
+
+msgid "signUp##signUpWithGoogle"
+msgstr "Sign Up With Google"
+
+msgid "signUp##signUpWithLinkedIn"
+msgstr "Sign Up With LinkedIn"
+
+msgid "signUp##signUpWithWindowsLive"
+msgstr "Sign Up With Windows Live"
+
+msgid "signUp##email"
+msgstr "Email"
+
+msgid "signUp##emailAddress"
+msgstr "Email Address"
+
+msgid "signUp##whatIsYourEmail"
+msgstr "What's your e-mail address?"
+
+msgid "signUp##username"
+msgstr "Username"
+
+msgid "signUp##chooseUsername"
+msgstr "Choose a Username"
+
+msgid "signUp##password"
+msgstr "Password"
+
+msgid "signUp##confirmPassword"
+msgstr "Confirm Password"
+
+msgid "signUp##passwordConfirmation"
+msgstr "Password Confirmation"
+
+msgid "signUp##signUp"
+msgstr "Sign Up"
+
+msgid "signUp##alreadyHaveAccount"
+msgstr "Already Have An Account"
+
+msgid "signUp##passwordsNotMatch"
+msgstr "Passwords do not match."
+
+msgid "signUp##emailOrUsernameExists"
+msgstr "Email or username already exists."
+
+msgid "confirmation##confirmed"
+msgstr ""
+"Your email has been successfully confirmed. You may continue logging in."
+
+msgid "confirmation##invalid"
+msgstr "Confirmation link is invalid or has expired."
+
+msgid "account##accountInformation"
+msgstr "Account Information"
+
+msgid "account##profile"
+msgstr "Profile"
+
+msgid "account##uploadPicture"
+msgstr "Upload Profile Picture"
+
+msgid "account##unsupportedFileType"
+msgstr "Unsupported File Type"
+
+msgid "account##username"
+msgstr "Username"
+
+msgid "account##password"
+msgstr "Password"
+
+msgid "account##newPassword"
+msgstr "New Password"
+
+msgid "account##confirmNewPassword"
+msgstr "Confirm New Password"
+
+msgid "account##firstName"
+msgstr "First Name"
+
+msgid "account##lastName"
+msgstr "Last Name"
+
+msgid "account##email"
+msgstr "Email"
+
+msgid "account##streetAddress"
+msgstr "Street Address"
+
+msgid "account##city"
+msgstr "City"
+
+msgid "account##state"
+msgstr "State"
+
+msgid "account##zipCode"
+msgstr "Zip Code"
+
+msgid "account##country"
+msgstr "Country"
+
+msgid "account##language"
+msgstr "Language"
+
+msgid "account##update"
+msgstr "Update"
+
+msgid "account##payments"
+msgstr "Payments"
+
+msgid "account##currentPlanInfo"
+msgstr "Current plan is: __planName__"
+
+msgid "account##nextPaymentInfo"
+msgstr "Next payment will be on __expDate__ for __amount__."
+
+msgid "account##creditCard"
+msgstr "Credit Card"
+
+msgid "account##enterCardNumber"
+msgstr "Enter your card number."
+
+msgid "account##enterNameOnCard"
+msgstr "Enter name on card."
+
+msgid "account##cvc"
+msgstr "CVC:"
+
+msgid "account##expiryDate"
+msgstr "Exp. Date:"
+
+msgid "account##updateCard"
+msgstr "Update Card"
+
+msgid "account##cardAlreadyAdded"
+msgstr "Card already added"
+
+msgid "account##addNew"
+msgstr "Add new"
+
+msgid "account##enterCouponCode"
+msgstr "Enter the coupon code."
+
+msgid "account##addCoupon"
+msgstr "Add Coupon"
+
+msgid "account##deactivateAccount"
+msgstr "Deactivate Account"
+
+msgid "account##collaborators"
+msgstr "Collaborators"
+
+msgid "account##noCollaborators"
+msgstr ""
+"Nothing to see here. Invite Collaborators to breakdown tasks in the "
+"\"Projects\" tab."
+
+msgid "account##confirmCollaboratorDelete"
+msgstr "Are you sure you want to remove the collaborator from all projects?"
+
+msgid "account##delete"
+msgstr "Delete"
+
+msgid "account##currentPassword"
+msgstr "Current Password"
+
+msgid "account##invalidCurrentPassword"
+msgstr "Current Password is not valid."
+
+msgid "account##userOrEmailTaken"
+msgstr "The username or email is already taken."
+
+msgid "account##passwordLenghtError"
+msgstr "Password length is not in range."
+
+msgid "account##creditCardAdded"
+msgstr "Credit card added."
+
+msgid "account##confirmAccountDelete"
+msgstr "Are you sure? All data will be permanently erased."
+
+msgid "account##couponAdded"
+msgstr "Coupon added."
+
+msgid "projectList##projects"
+msgstr "Projects"
+
+msgid "projectList##createNewProject"
+msgstr "Create a New Project"
+
+msgid "projectList##createFirstProject"
+msgstr "Create Your First Project By Clicking"
+
+msgid "projectList##new"
+msgstr "New"
+
+msgid "projectList##myProjects"
+msgstr "My Projects"
+
+msgid "projectList##options"
+msgstr "Options"
+
+msgid "projectList##open"
+msgstr "Open"
+
+msgid "projectList##invite"
+msgstr "Invite"
+
+msgid "projectList##settings"
+msgstr "Settings"
+
+msgid "projectList##delete"
+msgstr "Delete"
+
+msgid "projectList##clone"
+msgstr "Clone"
+
+msgid "projectList##projectsShared"
+msgstr "Projects Shared With Me"
+
+msgid "projectList##confirmDelete"
+msgstr "Are you sure that you want to delete the project?"
+
+msgid "projectList##loading"
+msgstr "LOADING"
+
+msgid "nav##freePeriodExpires"
+msgstr "Free period ends on __subscription__"
+
+msgid "nav##tour"
+msgstr "Tour"
+
+msgid "nav##freeMonth"
+msgstr "Free Month"
+
+msgid "nav##projects"
+msgstr "Projects"
+
+msgid "nav##feedback"
+msgstr "Feedback"
+
+msgid "nav##account"
+msgstr "Account"
+
+msgid "nav##logout"
+msgstr "Log Out"
+
+msgid "projectCreate##createNewProject"
+msgstr "Create a New Project"
+
+msgid "projectCreate##upgradePlan"
+msgstr "Please upgrade your plan to create a new project."
+
+msgid "projectCreate##name"
+msgstr "Name"
+
+msgid "projectCreate##enterProjectName"
+msgstr "Enter Project Name"
+
+msgid "projectCreate##description"
+msgstr "Description"
+
+msgid "projectCreate##useQualityChecklist"
+msgstr "Use quality checklist completion for task progress?"
+
+msgid "projectCreate##create"
+msgstr "Create"
+
+msgid "projectCreate##failToSave"
+msgstr "Failed to save the project"
+
+msgid "listView##filterByAssignee"
+msgstr "Filter By Assignee"
+
+msgid "listView##allUsers"
+msgstr "All Users"
+
+msgid "listView##hideCompleteTasks"
+msgstr "Hide Complete Tasks"
+
+msgid "listView##createTask"
+msgstr "Create Task"
+
+msgid "listView##loading"
+msgstr "LOADING"
+
+msgid "listView##deleteTaskConfirm"
+msgstr "Delete task?"
+
+msgid "listView##unassigned"
+msgstr "Unassigned"
+
+msgid "agileView##loading"
+msgstr "LOADING"
+
+msgid "agileView##createNewBoard"
+msgstr "+ Create New Board"
+
+msgid "agileView##enterBoardName"
+msgstr "enter board name"
+
+msgid "agileView##renameBoard"
+msgstr "Rename Board"
+
+msgid "agileView##deleteBoard"
+msgstr "Delete Board"
+
+msgid "agileView##createNewBoardInQuotes"
+msgstr "\"Create New Board\""
+
+msgid "agileView##toGetStarted"
+msgstr "to get started."
+
+msgid "agileView##createTask"
+msgstr "Create Task"
+
+msgid "agileView##addTask"
+msgstr "Add Task"
+
+msgid "agileView##addTasks"
+msgstr "Add Tasks"
+
+msgid "agileView##addChildTask"
+msgstr "Add Child Task"
+
+msgid "agileView##importTasks"
+msgstr "Import Tasks"
+
+msgid "agileView##deleteList"
+msgstr "Delete List"
+
+msgid "agileView##clearList"
+msgstr "Clear List"
+
+msgid "agileView##add"
+msgstr "Add Selected"
+
+msgid "agileView##markAll"
+msgstr "Mark All"
+
+msgid "agileView##unmarkAll"
+msgstr "Unmark All"
+
+msgid "agileView##addByAssignee"
+msgstr "Add by assignee"
+
+msgid "agileView##assignTasksToUsersFirst"
+msgstr "Assign tasks to users first"
+
+msgid "agileView##removeFromList"
+msgstr "Remove from List"
+
+msgid "agileView##delete"
+msgstr "Delete"
+
+msgid "agileView##enterListName"
+msgstr "Enter list name"
+
+msgid "agileView##newList"
+msgstr "+ New List..."
+
+msgid "agileView##enterToCreateNewBoard"
+msgstr "Press enter to create new board."
+
+msgid "agileView##enterToCreateNewList"
+msgstr "Press enter to create new list."
+
+msgid "agileView##createFirstList"
+msgstr "Create your first list by clicking"
+
+msgid "agileView##newListInQuotes"
+msgstr "\"New List\"."
+
+msgid "agileView##deleteTaskConfirm"
+msgstr "Delete task?"
+
+msgid "agileView##taskCount"
+msgstr "__count__ task(s)"
+
+msgid "taskForm##createSubTask"
+msgstr "Create Sub-Task"
+
+msgid "taskForm##selectBoard"
+msgstr "Select Board"
+
+msgid "taskForm##enterBoardName"
+msgstr "enter board name"
+
+msgid "taskForm##plusNewBoard"
+msgstr "+ New Board"
+
+msgid "taskForm##selectList"
+msgstr "Select List"
+
+msgid "taskForm##enterListName"
+msgstr "enter list name"
+
+msgid "taskForm##plusNewList"
+msgstr "+ New List"
+
+msgid "taskForm##assign"
+msgstr "Assign"
+
+msgid "taskForm##inviteUsersToAssign"
+msgstr "Invite users to assign"
+
+msgid "taskForm##files"
+msgstr "Files"
+
+msgid "taskForm##openFile"
+msgstr "Open __source__"
+
+msgid "taskForm##delete"
+msgstr "Delete"
+
+msgid "taskForm##chooseFromDropbox"
+msgstr "Choose from Dropbox"
+
+msgid "taskForm##chooseFromGoogle"
+msgstr "Choose from Google"
+
+msgid "taskForm##chooseFromOneDrive"
+msgstr "Choose from OneDrive"
+
+msgid "taskForm##upload"
+msgstr "Upload"
+
+msgid "taskForm##checklist"
+msgstr "Checklist"
+
+msgid "taskForm##addItem"
+msgstr "Add Item"
+
+msgid "taskForm##dependencies"
+msgstr "Dependencies"
+
+msgid "taskForm##findTask"
+msgstr "Find Task"
+
+msgid "taskForm##add"
+msgstr "Add"
+
+msgid "taskForm##risks"
+msgstr "Risks"
+
+msgid "taskForm##addRisk"
+msgstr "Add Risk"
+
+msgid "taskForm##associateWithRisk"
+msgstr "Associate with Risk"
+
+msgid "taskForm##removeRisk"
+msgstr "Remove risk"
+
+msgid "taskForm##deleteRisk"
+msgstr "Delete risk"
+
+msgid "taskForm##comments"
+msgstr "Comments"
+
+msgid "taskForm##reply"
+msgstr "reply"
+
+msgid "taskForm##comment"
+msgstr "Comment"
+
+msgid "taskForm##yourComment"
+msgstr "Your comment..."
+
+msgid "taskForm##timezone"
+msgstr "Timezone:"
+
+msgid "taskForm##notSet"
+msgstr "Not set"
+
+msgid "taskForm##startDate"
+msgstr "Start Date"
+
+msgid "taskForm##endDate"
+msgstr "End Date"
+
+msgid "taskForm##complete"
+msgstr "Complete"
+
+msgid "taskForm##duration"
+msgstr "Duration"
+
+msgid "taskForm##numberHere"
+msgstr "Number here"
+
+msgid "taskForm##subTaskDurationSum"
+msgstr "Sum of Subtasks Duration: __duration__ Hours"
+
+msgid "taskForm##optimisticTime"
+msgstr "Optimistic Time"
+
+msgid "taskForm##pessimisticTime"
+msgstr "Pessimistic Time"
+
+msgid "taskForm##mostLikelyTime"
+msgstr "Most Likely Time"
+
+msgid "taskForm##expectedTime"
+msgstr "Expected Time: __duration__ __type__"
+
+msgid "taskForm##cost"
+msgstr "Cost"
+
+msgid "taskForm##costSum"
+msgstr "Sum of Cost: __sum__"
+
+msgid "taskForm##user"
+msgstr "User"
+
+msgid "taskForm##role"
+msgstr "Role"
+
+msgid "taskForm##unassigned"
+msgstr "Unassigned"
+
+msgid "taskForm##responsible"
+msgstr "Responsible"
+
+msgid "taskForm##accountable"
+msgstr "Accountable"
+
+msgid "taskForm##consulted"
+msgstr "Consulted"
+
+msgid "taskForm##informed"
+msgstr "Informed"
+
+msgid "taskForm##person"
+msgstr "Person"
+
+msgid "taskForm##info"
+msgstr "Info"
+
+msgid "taskForm##timeCost"
+msgstr "Time & Cost"
+
+msgid "taskForm##raci"
+msgstr "RACI"
+
+msgid "taskForm##uploading"
+msgstr "Uploading..."
+
+msgid "taskForm##failToUpload"
+msgstr "Failed to upload a file."
+
+msgid "taskForm##typeAndPressEnter"
+msgstr "Type and press enter"
+
+msgid "taskForm##onlyProjectCreatorCanChangeRACI"
+msgstr "Only the project creator can change RACI roles"
+
+msgid "referral##invitePeople"
+msgstr "Refer other people to use PlanHammer!"
+
+msgid "referral##referralDescription"
+msgstr ""
+"Each person who signs up as a new account from your link gets you a free "
+"month's credit automatically applied to your account. (They are not invited "
+"to collaborate on your project.)"
+
+msgid "referral##email"
+msgstr "Email"
+
+msgid "referral##enterEmail"
+msgstr "Enter email of user"
+
+msgid "referral##message"
+msgstr "Message"
+
+msgid "referral##inviteViaEmail"
+msgstr "Invite Via Email"
+
+msgid "referral##shareWithLinkedIn"
+msgstr "Share with LinkedIn"
+
+msgid "referral##shareWithGooglePlus"
+msgstr "Share with Google Plus"
+
+msgid "referral##inviteSentSuccessfully"
+msgstr "Invite sent successfully"
+
+msgid "referral##youCanNotInviteYourself"
+msgstr "You can not invite yourself"
+
+msgid "referral##userAlreadyExists"
+msgstr "User already exists"
+
+msgid "projectSettings##projectSettings"
+msgstr "Project Settings"
+
+msgid "projectSettings##projectName"
+msgstr "Project Name"
+
+msgid "projectSettings##timezone"
+msgstr "Timezone"
+
+msgid "projectSettings##export"
+msgstr "Export"
+
+msgid "projectSettings##exportTasksAsCSV"
+msgstr "Export Tasks as a CSV"
+
+msgid "projectSettings##exportTasksAsMSProject"
+msgstr "Export Tasks as a Microsoft Project file"
+
+msgid "projectSettings##exportRaci"
+msgstr "Export RACI"
+
+msgid "projectSettings##import"
+msgstr "Import"
+
+msgid "projectSettings##importMSProject"
+msgstr "Import from Microsoft Project"
+
+msgid "projectSettings##successfulImport"
+msgstr "Imported successfully."
+
+msgid "projectSettings##waitWhileExport"
+msgstr "Please wait while exporting the project"
+
+msgid "projectSettings##successfulExport"
+msgstr "Exported successfully."
+
+msgid "projectSettings##collaborators"
+msgstr "Collaborators"
+
+msgid "projectSettings##remove"
+msgstr "Remove"
+
+msgid "projectSettings##invitePeople"
+msgstr "+ Invite more people"
+
+msgid "projectSettings##successfulUpdate"
+msgstr "Project was updated successfully"
+
+msgid "projectSettings##removeUserConfirm"
+msgstr "Remove user from project?"
+
+msgid "projectSettings##projectNameCanNotBeBlank"
+msgstr "Project Name can not be blank"
+
+msgid "projectSettings##collaboratorsCanNotUpdate"
+msgstr "Collaborators can not update the project"
+
+msgid "projectSettings##ganttStartDate"
+msgstr "Gantt start date"
+
+msgid "projectSettings##currentDate"
+msgstr "Current date"
+
+msgid "projectSettings##projectCreationDate"
+msgstr "Project creation date"
+
+msgid "projectSettings##firstTaskStartDate"
+msgstr "First task start date"
+
+msgid "projectSettings##projectDesc"
+msgstr "Project Desc"
+
+msgid "ganttView##title"
+msgstr "Title"
+
+msgid "ganttView##addChild"
+msgstr "Add Child"
+
+msgid "ganttView##addTask"
+msgstr "Add Task"
+
+msgid "ganttView##day"
+msgstr "Day"
+
+msgid "ganttView##week"
+msgstr "Week"
+
+msgid "ganttView##month"
+msgstr "Month"
+
+msgid "ganttView##year"
+msgstr "Year"
+
+msgid "ganttView##newTask"
+msgstr "New task"
+
+msgid "ganttView##cancel"
+msgstr "Cancel"
+
+msgid "ganttView##deleteTask"
+msgstr "Delete task"
+
+msgid "ganttView##delete"
+msgstr "Delete"
+
+msgid "ganttView##start"
+msgstr "Start"
+
+msgid "ganttView##end"
+msgstr "End"
+
+msgid "ganttView##task"
+msgstr "Task"
+
+msgid "ganttView##save"
+msgstr "Save"
+
+msgid "ganttView##complete"
+msgstr "Complete"
+
+msgid "ganttView##confirmDelete"
+msgstr "Are you sure you want to delete this task?"
+
+msgid "riskView##loading"
+msgstr "LOADING"
+
+msgid "riskView##createFirstRisk"
+msgstr "Create your first Risk here, or in the attribute view of any task."
+
+msgid "riskView##exportAsCsv"
+msgstr "Export as CSV"
+
+msgid "riskView##name"
+msgstr "Name"
+
+msgid "riskView##topic"
+msgstr "Topic"
+
+msgid "riskView##probability"
+msgstr "Probability"
+
+msgid "riskView##impact"
+msgstr "Impact"
+
+msgid "riskView##score"
+msgstr "Score"
+
+msgid "riskView##associatedTask"
+msgstr "Associated Task"
+
+msgid "riskView##files"
+msgstr "Files"
+
+msgid "riskView##delete"
+msgstr "Delete"
+
+msgid "riskView##enterTaskName"
+msgstr "Please enter task name"
+
+msgid "riskView##chooseFromDropbox"
+msgstr "Choose from Dropbox"
+
+msgid "riskView##chooseFromGoogle"
+msgstr "Choose from Google"
+
+msgid "riskView##chooseFromOneDrive"
+msgstr "Choose from OneDrive"
+
+msgid "riskView##upload"
+msgstr "Upload"
+
+msgid "riskView##newRisk"
+msgstr "+ New Risk"
+
+msgid "riskView##deleteRiskConfirm"
+msgstr "Delete Risk?"
+
+msgid "riskView##uploading"
+msgstr "Uploading..."
+
+msgid "riskView##failToUpload"
+msgstr "Failed to upload a file."
+
+msgid "riskView##deleteFileConfirm"
+msgstr "Delete file?"
+
+msgid "raciView##loading"
+msgstr "LOADING"
+
+msgid "raciView##createTasksFirst"
+msgstr "In order to assign responsibilities, please create tasks first."
+
+msgid "raciView##createNewResource"
+msgstr "Create a new resource by clicking + on the last column."
+
+msgid "raciView##exportAsCsv"
+msgstr "Export as CSV"
+
+msgid "raciView##task"
+msgstr "Task"
+
+msgid "raciView##addResource"
+msgstr "+ Add Resource"
+
+msgid "raciView##add"
+msgstr "Add"
+
+msgid "raciView##unassigned"
+msgstr "Unassigned"
+
+msgid "raciView##responsible"
+msgstr "Responsible"
+
+msgid "raciView##accountable"
+msgstr "Accountable"
+
+msgid "raciView##consulted"
+msgstr "Consulted"
+
+msgid "raciView##informed"
+msgstr "Informed"
+
+msgid "raciView##alreadyExists"
+msgstr "Already exists"
+
+msgid "raciView##resourceAlreadyExists"
+msgstr "Resource already exists"
+
+msgid "raciView##deleteResourceConfirm"
+msgstr "Delete resource?"
+
+msgid "raciView##onlyProjectCreatorCanChangeRACI"
+msgstr "Only the project creator can change RACI roles"
+
+msgid "reset##resetPassword"
+msgstr "Reset Password"
+
+msgid "reset##yourEmail"
+msgstr "Your Email"
+
+msgid "reset##sendLink"
+msgstr "Send Link"
+
+msgid "reset##reset"
+msgstr "Reset"
+
+msgid "reset##passwordsNotMatch"
+msgstr "Passwords do not match."
+
+msgid "reset##successfulReset"
+msgstr "Password was successfully reset."
+
+msgid "reset##invalidToken"
+msgstr "Password reset token is invalid or has expired."
+
+msgid "reset##linkSent"
+msgstr "A reset link was sent to your email."
+
+msgid "invite##inviteCollaborator"
+msgstr "Invite Collaborator"
+
+msgid "invite##upgradePlanNotice"
+msgstr ""
+"Inviting an additional user will automatically upgrade your subscription to "
+"the \"__plan__\" plan."
+
+msgid "invite##enterEmail"
+msgstr "Please enter email"
+
+msgid "invite##invite"
+msgstr "Invite"
+
+msgid "invite##existingCollaborators"
+msgstr "Existing Collaborators"
+
+msgid "invite##waitingForRegistration"
+msgstr "Waiting for registration"
+
+msgid "invite##noPermission"
+msgstr "You don't have permission to invite."
+
+msgid "invite##userIsProjectOwner"
+msgstr "The user is the project owner."
+
+msgid "invite##alreadyInvited"
+msgstr "The user is already invited."
+
+msgid "invite##alreadyAdded"
+msgstr "The user is already added."
+
+msgid "invite##collaboratorInvited"
+msgstr "Collaborator invited."
+
+msgid "riskModal##updateRisk"
+msgstr "Update Risk: __risk__"
+
+msgid "riskModal##name"
+msgstr "Name"
+
+msgid "riskModal##topic"
+msgstr "Topic"
+
+msgid "riskModal##probability"
+msgstr "Probability"
+
+msgid "riskModal##impact"
+msgstr "Impact"
+
+msgid "riskModal##riskScore"
+msgstr "Risk Score"
+
+msgid "riskModal##mitigation"
+msgstr "Mitigation"
+
+msgid "riskModal##contingency"
+msgstr "Contingency"
+
+msgid "riskModal##consequence"
+msgstr "Consequence"
+
+msgid "riskModal##update"
+msgstr "Update"
+
+msgid "riskModal##newRisk"
+msgstr "New Risk"
+
+msgid "riskModal##save"
+msgstr "Save"
+
+msgid "riskModal##newRisks"
+msgstr "New Risks"
+
+msgid "tour##prev"
+msgstr "Prev"
+
+msgid "tour##next"
+msgstr "Next"
+
+msgid "tour##endTour"
+msgstr "End Tour"
+
+msgid "tour##taskDetails"
+msgstr "Task Details"
+
+msgid "tour##listViewContent"
+msgstr ""
+"Type your task name and Press the ENTER key to create a task. Feel free to "
+"experiment with adding a description, uploading a file, commenting, "
+"selecting dependencies, and creating a requirements checklist."
+
+msgid "tour##wbsChart"
+msgstr "WBS Chart"
+
+msgid "tour##detailViewContent"
+msgstr ""
+"Here you can see your tasks visualized in a tree diagram. Clicking a task "
+"hides or shows the tasks underneath it. Double clicking allows you to edit "
+"the title. Hover over one and click the little blue icons to change how the "
+"sub-tasks are displayed. Clicking the plus icon on the left, right, top, or "
+"bottom adds a new task! Try it."
+
+msgid "tour##ganttChart"
+msgstr "GANTT Chart"
+
+msgid "tour##ganttViewContent"
+msgstr ""
+"This is your standard GANTT view for project scheduling, handy for setting "
+"start and end dates, dependencies, and task durations."
+
+msgid "tour##agileArea"
+msgstr "Agile Area"
+
+msgid "tour##agileContent"
+msgstr ""
+"Agile view allows you to create as many kanban style boards as you wish. "
+"Some people like to create one for each team member, or you could even "
+"create one for each sprint, your call. Create lists (or columns) which "
+"represent the Agile Status for each task. Tasks can only belong to one agile "
+"board, for the sake of everyone's sanity. You can add tasks here that were "
+"created in other views or add completely new ones."
+
+msgid "tour##raciChart"
+msgstr "RACI Chart"
+
+msgid "tour##raciContent"
+msgstr ""
+"Visualize who should be taking care of what. Resource names can be free text "
+"not corresponding to PlanHammer users so that you can just write in your "
+"stakeholder groups or other non-registered team members or users. Users "
+"assigned to a task are automatically set as Responsible and the user who "
+"created the task is automatically set as Accountable. RACI view exports as a "
+"spreadsheet for the old school."
+
+msgid "tour##riskRegister"
+msgstr "Risk Register"
+
+msgid "tour##riskContent"
+msgstr ""
+"Here you can update your project's risk register by adding risk entries to "
+"keep track of those known unknowns."
+
+msgid "tour##freeMonth"
+msgstr "Free Month"
+
+msgid "tour##freeMonthContent"
+msgstr ""
+"Invite people to use PlanHammer via email, Google +, or LinkedIn. If they "
+"click through your message and signup you'll get your next month at "
+"PlanHammer for free automagically."
+
+msgid "tour##account"
+msgstr "Account"
+
+msgid "tour##accountContent"
+msgstr ""
+"Here is your info. Adding your first and last name now would be nice so that "
+"it will show up on comments and assignment labels instead of your email "
+"address."
+
+msgid "tour##payments"
+msgstr "Payments"
+
+msgid "tour##paymentsContent"
+msgstr ""
+"Here's how you will give us money. Add your details and the card comes to "
+"life. Try it, it's sorta neat. We do not store credit card data, it zips "
+"right over to our payments processor (Stripe). Your data input is secured by "
+"SSL (Green Bar in URL). You will be charged monthly based on the number of "
+"unique users that are collaborating on your projects with you on your "
+"billing due date. So if you wanted to remove everyone and then add them "
+"again, you could do that if you really wanted to."
+
+msgid "tour##collaborators"
+msgstr "Collaborators"
+
+msgid "tour##collaboratorsContent"
+msgstr ""
+"This is how we keep track of how many people you have invited to your "
+"projects. If you want to cut down your bill, here's where the heads gotta "
+"roll."
+
+msgid "tour##goodTalk"
+msgstr "Good talk"
+
+msgid "tour##goodTalkContent"
+msgstr ""
+"Well that's all folks. Remember to click the info button in the left sidebar "
+"for detailed video overviews of the current screen you are on when you click "
+"it."
+
+msgid "tour##settings"
+msgstr "Project Settings"
+
+msgid "tour##settingsContent"
+msgstr ""
+"Here you can rename the project, set the project timezone and invite or "
+"manage collaborators."
+
+msgid "schemeAssign##assignUser"
+msgstr "Assign User"
+
+msgid "schemeAssign##assignedUsers"
+msgstr "Assigned Users"
+
+msgid "schemeAssign##enterEmail"
+msgstr "Please enter user email."
+
+msgid "wbsView##deleteTaskConfirm"
+msgstr "Delete task?"
+
+msgid "activityFeed##activityFeed"
+msgstr "Activity Feed"
+
+msgid "activityFeed##loading"
+msgstr "LOADING"
+
+msgid "activityFeed##openProject"
+msgstr "__user__ opened the project \\\"__project__\\\"."
+
+msgid "activityFeed##addTask"
+msgstr "__user__ added the task \\\"__task__\\\"."
+
+msgid "activityFeed##updateTask"
+msgstr "__user__ updated the task \\\"__task__\\\"."
+
+msgid "activityFeed##updateTaskAssignment"
+msgstr "__user__ updated the assignments of \\\"__task__\\\"."
+
+msgid "activityFeed##deleteTask"
+msgstr "__user__ deleted the task \\\"__task__\\\"."
+
+msgid "activityFeed##uploadTaskFile"
+msgstr "__user__ uploaded a file to the task \\\"__task__\\\"."
+
+msgid "activityFeed##deleteTaskFile"
+msgstr "__user__ deleted a file from the task \\\"__task__\\\"."
+
+msgid "activityFeed##addQuality"
+msgstr ""
+"__user__ added the checklist item \\\"__item__\\\" to \\\"__task__\\\"."
+
+msgid "activityFeed##updateQuality"
+msgstr "__user__ updated a checklist item on \\\"__task__\\\"."
+
+msgid "activityFeed##deleteQuality"
+msgstr ""
+"__user__ deleted the checklist item \\\"__item__\\\" from \\\"__task__\\\"."
+
+msgid "activityFeed##addDependency"
+msgstr "__user__ added a dependency to \\\"__task__\\\"."
+
+msgid "activityFeed##deleteDependency"
+msgstr "__user__ deleted a dependency from the task \\\"__task__\\\"."
+
+msgid "activityFeed##addRisk"
+msgstr "__user__ added the risk \\\"__risk__\\\"."
+
+msgid "activityFeed##updateRisk"
+msgstr "__user__ updated the risk \\\"__risk__\\\"."
+
+msgid "activityFeed##attachRisk"
+msgstr ""
+"__user__ associated the risk \\\"__risk__\\\" to the task \\\"__task__\\\"."
+
+msgid "activityFeed##detachRisk"
+msgstr ""
+"__user__ removed the risk \\\"__risk__\\\" from the task \\\"__task__\\\"."
+
+msgid "activityFeed##addFileToRisk"
+msgstr "__user__ attached a file to the risk \\\"__risk__\\\"."
+
+msgid "activityFeed##deleteFileFromRisk"
+msgstr "__user__ removed a file from the risk \\\"__risk__\\\"."
+
+msgid "activityFeed##deleteRisk"
+msgstr "__user__ deleted the risk \\\"__risk__\\\"."
+
+msgid "activityFeed##addComment"
+msgstr "__user__ commented on \\\"__task__\\\"."
+
+msgid "activityFeed##upvoteComment"
+msgstr "__user__ upvoted a comment on \\\"__task__\\\"."
+
+msgid "activityFeed##removeComment"
+msgstr "__user__ deleted a comment on \\\"__task__\\\"."
+
+msgid "activityFeed##addRaci"
+msgstr "__user__ added a RACI assignment on \\\"__task__\\\"."
+
+msgid "activityFeed##addBoard"
+msgstr "__user__ added the agile board \\\"__board__\\\"."
+
+msgid "activityFeed##renameBoard"
+msgstr "__user__ renamed the \\\"__board__\\\" agile board."
+
+msgid "activityFeed##deleteBoard"
+msgstr "__user__ deleted the \\\"__board__\\\" agile board."
+
+msgid "activityFeed##addList"
+msgstr ""
+"__user__ added the list \\\"__list__\\\" in the \\\"__board__\\\" agile "
+"board."
+
+msgid "activityFeed##updateList"
+msgstr ""
+"__user__ updated the list \\\"__list__\\\" in the \\\"__board__\\\" agile "
+"board."
+
+msgid "activityFeed##deleteList"
+msgstr "__user__ deleted the agile list \\\"__list__\\\"."
+
+msgid "activityFeed##addTaskToList"
+msgstr ""
+"__user__ added \\\"__task__\\\" to \\\"__list__\\\" on \\\"__board__\\\" "
+"agile board."
+
+msgid "activityFeed##removeTaskFromList"
+msgstr ""
+"__user__ removed \\\"__task__\\\" from \\\"__list__\\\" on \\\"__board__\\\" "
+"agile board."
+
+msgid "activityFeed##removeResource"
+msgstr "__user__ removed \\\"__resource__\\\" from RACI."
+
+msgid "activityFeed##updateRaciRole"
+msgstr ""
+"__user__ updated the RACI role of \\\"__resource__\\\" on \\\"__task__\\\"."
+
+msgid "activityFeed##updateNodePosition"
+msgstr "__user__ changed the position of \\\"__task__\\\"."
+
+#~ msgid "taskForm##deleteFileConfirm"
+#~ msgstr "Delete file?"
+
+#~ msgid "tour##tour.wbsChart"
+#~ msgstr "WBS Chart"
+
+#~ msgid "taskForm##open"
+#~ msgstr "Open __source__"
+
+#~ msgid "global##searching"
+#~ msgstr "Searching..."
