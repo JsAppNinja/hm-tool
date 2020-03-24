@@ -20,7 +20,7 @@
     "jade": "~0.31.2",
     "json2csv": "~2.2.1",
     "localize": "^0.4.7",
-    "lodash": "^3.6.0",
+    "lodash": "^4.17.15",
     "mandrill-api": "~1.0.35",
     "ment.io": "^0.9.23",
     "method-override": "^1.0.2",
